@@ -41,7 +41,7 @@ python soma_threads.py
 
 ## 📺 Link para o vídeo de apresentação:
 
-[🔗 Clique aqui para assistir](https://seu-link-do-video)
+[🔗 Clique aqui para assistir](https://drive.google.com/file/d/1KNeTMbTorsOy6aW9MVnWH4YeVyB1J5Ws/view?usp=sharing)
 
 ## 🧠 Autor
 
