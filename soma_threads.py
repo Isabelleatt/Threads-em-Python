@@ -48,3 +48,4 @@ for i, lista in enumerate(listas_teste):
     print(f"Teste {i+1}: Lista = {lista}")
     resultado = soma_com_threads(lista)
     print(f"Soma total: {resultado}\n")
+
